@@ -1,10 +1,10 @@
 {
-  "name": "base-project",
+  "name": "stockmarket",
   "version": "0.1.0",
   "authors": [
     "Paweł Motyl <pawmot@gmail.com>"
   ],
-  "description": "base-project",
+  "description": "stockmarket",
   "main": "",
   "moduleType": [],
   "license": "MIT",
