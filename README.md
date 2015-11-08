@@ -1,4 +1,4 @@
-# TypeScript base project
+# Stockmarket
 
-Use this project as a starting point for developing an application using TypeScript.
+A simplistick stockmarket simulator written as a sample application using Angular2, node.js and TypeScript.
 
