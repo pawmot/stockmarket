@@ -1,0 +1,6 @@
+typings
+app/public/components
+node_modules
+app/**/*.js
+app/**/*.css
+app/**/*.js.map

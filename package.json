@@ -1,0 +1,31 @@
+{
+  "name": "base-project",
+  "version": "0.1.0",
+  "description": "Base application for development using typescript.",
+  "main": "app/app.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-debug": "^2.1.0",
+    "gulp-inject": "^3.0.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-tslint": "^3.3.0",
+    "gulp-typescript": "^2.9.0",
+    "nodemon": "^1.8.0",
+    "require-dir": "^0.3.0",
+    "run-sequence": "^1.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp serve"
+  },
+  "author": "Paweł Motyl <pawmot@gmail.com>",
+  "license": "MIT",
+  "private": true
+}

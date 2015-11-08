@@ -1,0 +1,19 @@
+$paraFontSize: 20pt;
+
+body {
+    background-color: royalblue;
+}
+
+h1, p {
+	color: yellowgreen;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: $paraFontSize * 2;
+}
+
+p {
+    font-size: $paraFontSize;
+}

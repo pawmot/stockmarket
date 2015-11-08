@@ -1,0 +1,23 @@
+{
+  "name": "base-project",
+  "version": "0.1.0",
+  "authors": [
+    "Paweł Motyl <pawmot@gmail.com>"
+  ],
+  "description": "base-project",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
